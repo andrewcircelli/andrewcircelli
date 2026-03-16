@@ -1,28 +1,19 @@
-<div align="center">
-<img src="./assets/octo2.gif" alt="GitHub Logo" width="150" height="150" />
+# Andrew Circelli
 
-<h3 align="center">< <img src="./assets/hi.gif" width="20"> Hello there />, I'm Andrew, a creative full stack developer from Ohio</h3>
-</div>
+Systems engineer with a background in professional services and customer-embedded delivery. Current focus is on LLM-assisted tooling for complex workflow migration and estimation problems.
 
 ---
 
-- 🔭 I’m currently building data-driven React-packed, full stack applications
-- 🌱 I’m currently learning more about React.js, Jamstack, and Amazon Alexa Skills
-- 🤔 I’m looking to create the perfect fetch with GraphQL
+## What I Work On
 
-### Languages and Tools:
+Building structured pipelines that extract behavioral contracts from legacy systems, score migration complexity, and generate engineering design artifacts. The work sits at the intersection of systems modeling, prompt engineering, and production delivery under ambiguity.
 
-<p align="center">
-  <img src="./assets/js.webp" width="70">
-  <img src="./assets/react.webp" width="70">
-  <img src="./assets/node.webp" width="70">
-  <img src="./assets/aws.gif" width="70">
-  <img src="./assets/mongo.gif" width="70">
-  <img src="./assets/html.gif" width="70">
-  <img src="./assets/css.gif" width="70">
-  <img src="./assets/git.gif" width="130">
-  <img src="./assets/bootstrap.gif" width="70">
-  <img src="./assets/vscode.webp" width="70">
-</p>
+Day-to-day: behavioral translation across architectures, integration boundary design, and building artifacts that reduce dependency on the person who built them.
 
-<br/>
+---
+
+## Technical Orientation
+
+**Languages:** Python, C#, .NET  
+**AI/LLM:** Claude API — structured extraction, multi-stage pipelines, prompt engineering  
+**Integration:** REST APIs, enterprise workflow platforms, health IT systems
